@@ -40,6 +40,7 @@ gem 'jquery-rails', '>= 4.3.3', '< 4.3.5'
 gem 'haml-rails', '>= 2.0.1'
 gem 'erb2haml', '>= 0.1.5'
 gem 'font-awesome-rails', '>= 4.7.0.5'
+gem 'devise', '>= 4.6.2'
 
 
 group :development, :test do
