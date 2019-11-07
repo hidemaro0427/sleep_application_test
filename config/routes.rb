@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root 'sleeps#index'
+  root 'datas#index'
 end
